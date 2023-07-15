@@ -1,0 +1,11 @@
+opencv-contrib-python
+numpy
+matplotlib
+tensorflow
+keras
+python-socketio  #to connect with udacity simulator
+Flask   #to connect with udacity simulator
+eventlet
+
+#pip install python-engineio==3.13.2
+#pip install python-socketio==4.6.1
