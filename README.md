@@ -10,6 +10,7 @@ STEP 02:
 Create an environment & activate
 
 conda create -n sdcar python=3.7 -y
+
 STEP 03:
 Install the requirements
 
